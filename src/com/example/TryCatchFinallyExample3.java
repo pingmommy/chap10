@@ -13,7 +13,7 @@ public class TryCatchFinallyExample3 {
 		
 	String url="jdbc:oracle:thin:@localhost:1521:xe";
 	String user="scott";
-	String password="tigerx";
+	String password="tiger";
 	
 	Connection conn =null;
 	
